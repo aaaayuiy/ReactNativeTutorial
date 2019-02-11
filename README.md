@@ -1,3 +1,5 @@
 #git-practice-aaaayuiy
 
-by Joe Li 2/4/2019
+RallyCoding React Native Tutorial App #1
+
+by Joe Li 2/11/2019
